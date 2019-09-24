@@ -1,3 +1,5 @@
+https://img.shields.io/badge/status-brightgreen-brightgreen.svg
+
 If you think the status message is incorrect, click into it or check the build status of your latest commit. It may still be building.
 
 # Instructions 
